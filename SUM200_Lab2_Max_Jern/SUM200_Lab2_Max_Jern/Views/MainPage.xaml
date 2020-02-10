@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:SUM200_Lab2_Max_Jern"
+             BackgroundColor="AntiqueWhite"
+             x:Class="SUM200_Lab2_Max_Jern.MainPage">
+    <Grid Margin="24">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="8*" />
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*" />
+        </Grid.RowDefinitions>
+        <ListView x:Name="Woffers" Grid.Row="0" Grid.ColumnSpan="2" ItemsSource="{Binding Dog}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <!--
+                        The image could probably have been displayed better if I placed it in the middle of an 3x3 grid, but it's such a pain to setup.
+                        This looks good enough in most scenarios. Some pictures are too big to display properly though.
+                        The layout for android is kinda wonky, but the application at least works for both Windows and Android.
+                        -->
+                        <StackLayout Orientation="Horizontal" Grid.Row="0" Grid.ColumnSpan="2" >
+                            <Image Source="{Binding message}"/>
+                            <StackLayout Orientation="Vertical">
+                            </StackLayout>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <Entry x:Name="Editor" Grid.Row="1" Grid.ColumnSpan="2" Text="Enter a dog breed..."></Entry>
+        <Button x:Name="BtnDog" Grid.Row="2" Text="Give Me a Specific Pupper!" TextColor="White" Clicked="OnClickDog"/>
+        <Button x:Name="BtnRnd" Grid.Row="2" Grid.Column="1" Text="Give Me a Random Woffer!" TextColor="White" Clicked="OnClickRnd"/>
+    </Grid>
+</ContentPage>

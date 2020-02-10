@@ -1,0 +1,12 @@
+C:\Users\Max Jern\source\repos\SUM200_Lab2_Max_Jern\SUM200_Lab2_Max_Jern\SUM200_Lab2_Max_Jern\bin\Debug\netstandard2.0\SUM200_Lab2_Max_Jern.deps.json
+C:\Users\Max Jern\source\repos\SUM200_Lab2_Max_Jern\SUM200_Lab2_Max_Jern\SUM200_Lab2_Max_Jern\bin\Debug\netstandard2.0\SUM200_Lab2_Max_Jern.dll
+C:\Users\Max Jern\source\repos\SUM200_Lab2_Max_Jern\SUM200_Lab2_Max_Jern\SUM200_Lab2_Max_Jern\bin\Debug\netstandard2.0\SUM200_Lab2_Max_Jern.pdb
+C:\Users\Max Jern\source\repos\SUM200_Lab2_Max_Jern\SUM200_Lab2_Max_Jern\SUM200_Lab2_Max_Jern\obj\Debug\netstandard2.0\SUM200_Lab2_Max_Jern.csprojAssemblyReference.cache
+C:\Users\Max Jern\source\repos\SUM200_Lab2_Max_Jern\SUM200_Lab2_Max_Jern\SUM200_Lab2_Max_Jern\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Max Jern\source\repos\SUM200_Lab2_Max_Jern\SUM200_Lab2_Max_Jern\SUM200_Lab2_Max_Jern\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Max Jern\source\repos\SUM200_Lab2_Max_Jern\SUM200_Lab2_Max_Jern\SUM200_Lab2_Max_Jern\obj\Debug\netstandard2.0\SUM200_Lab2_Max_Jern.csproj.CoreCompileInputs.cache
+C:\Users\Max Jern\source\repos\SUM200_Lab2_Max_Jern\SUM200_Lab2_Max_Jern\SUM200_Lab2_Max_Jern\obj\Debug\netstandard2.0\SUM200_Lab2_Max_Jern.AssemblyInfoInputs.cache
+C:\Users\Max Jern\source\repos\SUM200_Lab2_Max_Jern\SUM200_Lab2_Max_Jern\SUM200_Lab2_Max_Jern\obj\Debug\netstandard2.0\SUM200_Lab2_Max_Jern.AssemblyInfo.cs
+C:\Users\Max Jern\source\repos\SUM200_Lab2_Max_Jern\SUM200_Lab2_Max_Jern\SUM200_Lab2_Max_Jern\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Max Jern\source\repos\SUM200_Lab2_Max_Jern\SUM200_Lab2_Max_Jern\SUM200_Lab2_Max_Jern\obj\Debug\netstandard2.0\SUM200_Lab2_Max_Jern.dll
+C:\Users\Max Jern\source\repos\SUM200_Lab2_Max_Jern\SUM200_Lab2_Max_Jern\SUM200_Lab2_Max_Jern\obj\Debug\netstandard2.0\SUM200_Lab2_Max_Jern.pdb
